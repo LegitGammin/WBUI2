@@ -1,0 +1,35 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://i.imgur.com/aWboiEe.png",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Welcome",
+          "title1": "Welcome to Primal Chaos CornHub PvP Server!",
+          "text1": "Please note this server does crash due to unstable mods.\nYou can expect bugs!\n\n\nBut dont worry, the server saves every 10 mins! To prevent large rollbacks on your progress.",
+          "imageurl": "https://i.imgur.com/aWboiEe.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.gg/r2pzFFXTQz"
+        }
+      }
+    ]
+  }
+}
