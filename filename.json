@@ -25,7 +25,7 @@
       {
         "tab2": {
           "layout": 3,
-          "buttontext": "Rules & Information",
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Rules & Information</>",
           "title1": "Rules",
           "title2": "Server Stats",
           "title4": "Banned Items/Dinos",
