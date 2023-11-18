@@ -3,13 +3,13 @@
     "settings": {
         "OpenButton": 0,
         "HideIcon": false,
-        "HideIconAfter": 60,
-        "IconURL": "https://i.imgur.com/aWboiEe.png",
+        "HideIconAfter": 180,
+        "IconURL": "https://i.imgur.com/4P1UAnV.png",
         "DisableIconText": false,
         "IconPosition": 0,
-        "IconTextColor": 0,
-        "OpenOnStart": true,
-        "OpenOnStartOnlyNewPlayers": true,
+        "IconTextColor": 8,
+        "OpenOnStart": false,
+        "OpenOnStartOnlyNewPlayers": false,
         "UpdateInterval": 12
       },
     "tabs": [
@@ -18,8 +18,21 @@
           "layout": 1,
           "buttontext": "Welcome",
           "title1": "Welcome to Primal Chaos CornHub PvP Server!",
-          "text1": "Please note this server does crash due to unstable mods.\nYou can expect bugs!\n\n\nBut dont worry, the server saves every 10 mins! To prevent large rollbacks on your progress.",
+          "text1": "Please note this server is in the early stage so, please expect lag, bugs, or crashes!\nYou can expect bugs!\n\n\nBut don't worry, the server saves every 10 mins! To prevent large rollbacks on your progress.\nCheck out CornHub's Discord for updates or any information regarding the server!",
           "imageurl": "https://i.imgur.com/aWboiEe.png"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 3,
+          "buttontext": "Rules & Information",
+          "title1": "Top left title",
+          "title2": "Top right title",
+          "title4": "bottom right title",
+          "text1": "This text goes into the top left box",
+          "text2": "This text goes into the top right box",
+          "text4": "This text goes into the bottom right box",
+          "imageurl": "https://i.imgur.com/4P1UAnV.png"
         }
       }
     ],
