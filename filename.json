@@ -19,20 +19,20 @@
           "buttontext": "Welcome",
           "title1": "Welcome to Primal Chaos CornHub PvP Server!",
           "text1": "Please note this server is in the early stage so, please expect lag, bugs, or crashes!\nYou can expect bugs!\n\n\nBut don't worry, the server saves every 10 mins! To prevent large rollbacks on your progress.\nCheck out CornHub's Discord for updates or any information regarding the server!",
-          "imageurl": ""
+          "imageurl": "https://i.imgur.com/9QVINbp.png"
         }
       },
       {
         "tab2": {
           "layout": 3,
           "buttontext": "Rules & Information",
-          "title1": "Top left title",
-          "title2": "Top right title",
-          "title4": "bottom right title",
-          "text1": "This text goes into the top left box",
-          "text2": "This text goes into the top right box",
-          "text4": "This text goes into the bottom right box",
-          "imageurl": ""
+          "title1": "Rules",
+          "title2": "Server Stats",
+          "title4": "Banned Items/Dinos",
+          "text1": "1. You must respect all users, regardless of your liking towards them. Treat others the way you want to be treated.\n\n2. The use of profanity should be kept to a minimum. However, any derogatory language towards any user is prohibited.\n\n3. We do not tolerate any kind of advertisements, whether it be for other communities or streams. You can post your content in the media channel (Discord) if it is relevant and provides actual value (Video/Art).\n\n4. No offensive character names.\n\n5. Threats to other users of DDoS, Death, DoX, abuse, and other malicious threats are absolutely prohibited and disallowed.\n\n6. The Admins and Mods will Kick/Ban per discretion. If you feel mistreated DM an Admin on Discord and we will resolve the issue.\n\n7. Your presence in this server implies accepting these rules, including all further changes. These changes might be done at any time without notice, it is your responsibility to check for them.",
+          "text2": "Game Mode: PvP\n\nHarvest Rate: 3x\n\nDinos Spawn Max Level: 600",
+          "text4": "No Banned Dinos/Items has been entered",
+          "imageurl": "https://i.imgur.com/9QVINbp.png"
         }
       }
     ],
