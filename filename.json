@@ -5,7 +5,7 @@
         "HideIcon": false,
         "HideIconAfter": 180,
         "IconURL": "https://i.imgur.com/ARGdvc4.png",
-        "DisableIconText": false,
+        "DisableIconText": true,
         "IconPosition": 0,
         "IconTextColor": 8,
         "OpenOnStart": false,
