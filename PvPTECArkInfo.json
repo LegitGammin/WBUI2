@@ -1,0 +1,56 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 180,
+        "IconURL": "https://i.imgur.com/8YeRKTu.png",
+        "DisableIconText": true,
+        "IconPosition": 0,
+        "IconTextColor": 8,
+        "OpenOnStart": false,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Welcome",
+          "title1": "Welcome to TECArk PvP Server!",
+          "text1": "Check out TECArk's Discord for updates or any information regarding the server!\n\nFor Xbox/Playstation Players to access the store online\n\nAccess website (Link is down below on Welcome UI)\nTop Right Corner click login\nLog in with eipc\nGo to setting\nscroll down to connect accounts\nIn-Game type in global chat !getconnectcode\nthen type in the code in the website to connect your xbox account to the website\nThen that is it! You can now claim your free kits and donate to the server!",
+          "imageurl": "https://i.imgur.com/9QVINbp.png"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 3,
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Rules & Information</>",
+          "title1": "Rules",
+          "title2": "Server Stats",
+          "title4": "Banned Items/Dinos",
+          "text1": "1. You must respect all users, regardless of your liking towards them. Treat others the way you want to be treated.\n\n2. The use of profanity should be kept to a minimum. However, any derogatory language towards any user is prohibited.\n\n3. We do not tolerate any kind of advertisements, whether it be for other communities or streams. You can post your content in the media channel (Discord) if it is relevant and provides actual value (Video/Art).\n\n4. No offensive character names.\n\n5. Threats to other users of DDoS, Death, DoX, abuse, and other malicious threats are prohibited and disallowed.\n\n6. The Admins and Mods will Kick/Ban per discretion. If you feel mistreated DM an Admin on Discord and we will resolve the issue.\n\n7. Your presence in this server implies accepting these rules, including all further changes. These changes might be done at any time without notice, it is your responsibility to check for them.",
+          "text2": "Game Mode: PvP\n\nHarvest Rate: 25x\n\nDinos Spawn Max Level: 300",
+          "text4": "No Banned Dinos/Items have been entered",
+          "imageurl": "https://i.imgur.com/9QVINbp.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.gg/UK6WZdptz8"
+        },
+        "link2": {
+          "text": "Webstore",
+          "url": "https://tecarkstore.gameserverapp.net/"
+        },
+        "link3": {
+          "text": "Link Your Ark Account Guide",
+          "url": "https://docs.gameserverapp.com/dashboard/community/website#connect-sub-accounts-on-community-website"
+        }
+      }
+    ]
+  }
+}
