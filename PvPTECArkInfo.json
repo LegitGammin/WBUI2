@@ -20,9 +20,7 @@
           "title1": "Welcome to TECArk PvP Server!",
           "text1": "Check out TECArk's Discord for updates or any information regarding the server!\n\nFor Xbox/Playstation Players to access the store online\n\nAccess website (Link is down below on Welcome UI)\nConnect the ark account to the store guide is down below (Link Your Ark Account Guide), once completed you can claim starter kits, buy resources, items, tames ect.",
           "imageurl": "https://i.imgur.com/9QVINbp.png"
-        }
-      },
-      {
+        },
         "tab2": {
           "layout": 3,
           "buttontext": "<RichColor Color=\"1,0,0,1\">Rules & Information</>",
@@ -33,6 +31,11 @@
           "text2": "Game Mode: PvP\n\nHarvest Rate: 25x\n\nDinos Spawn Max Level: 300",
           "text4": "No Banned Dinos/Items have been entered",
           "imageurl": "https://i.imgur.com/9QVINbp.png"
+        }
+         "tab3": {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"0,1,0,1\">Discord QR Code</>",
+          "imageurl": "https://i.imgur.com/ufJfYBz.png"
         }
       }
     ],
